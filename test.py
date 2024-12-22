@@ -3,7 +3,7 @@ import email
 import traceback
 
 
-MY_EMAIL = "mac00990011@gmail.com"
+MY_EMAIL = "example@gmail.com"
 # For the password to work use app password to create a specific password
 # to be used for the program. Like the password below created for this specific
 # program. Can be deleted after use.
